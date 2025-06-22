@@ -507,7 +507,7 @@ strong {
 -----------------------------------------*/
 .about-section {
   background-image: url('../images/edward-unsplash-blur.jpg');
-  background-color: #704010;
+  background-color: #7fffd4;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
@@ -681,7 +681,7 @@ strong {
 }
 
 .schedule-table thead th {
-  border-right: 1px solid #c7460a;
+  border-right: 1px solid #7fffd4;;
   border-bottom-color: transparent;
 }
 
